@@ -6,3 +6,5 @@ __pycache__/
 .env.*
 !.env.example
 lista_dados.json
+consulta_dev_comunity.json
+technews.log
