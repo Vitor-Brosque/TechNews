@@ -2,7 +2,7 @@
 
 Pipeline de dados em Python que coleta, valida e organiza notícias de tecnologia em um banco PostgreSQL.
 
-Projeto de estudo de **backend e engenharia de dados**, escrito à mão para praticar consumo de APIs, tratamento e validação de dados, extração de conteúdo web, persistência relacional e organização de um pipeline em módulos.
+Projeto de estudo de **backend e engenharia de dados**, para praticar consumo de APIs, tratamento e validação de dados, extração de conteúdo web, persistência relacional e organização de um pipeline em módulos.
 
 ## Como funciona
 
